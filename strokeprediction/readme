@@ -1,0 +1,3 @@
+Stroke Prediction using sklearn ML models - Support Vector Classifier, Decision tree classifier and Gradient Boosting classifier.
+Data cleaning and preprocessing using Pandas and Numpy
+Visualizations made with matplotlib and seaborn
